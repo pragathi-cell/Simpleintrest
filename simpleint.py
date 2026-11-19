@@ -1,4 +1,5 @@
 # Program to calculate Simple Interest
+import sys
 
 p = float(input("Enter Principal Amount: "))
 r = float(input("Enter Rate of Interest: "))
